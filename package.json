@@ -1,0 +1,25 @@
+{
+  "name": "almanac-filter",
+  "version": "1.0.0",
+  "description": "Filter the specific days from the almanac",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/huanghai21/almanac-filter.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/huanghai21/almanac-filter/issues"
+  },
+  "homepage": "https://github.com/huanghai21/almanac-filter#readme",
+  "devDependencies": {
+    "bufferhelper": "^0.2.1",
+    "iconv-lite": "^0.5.0",
+    "yargs": "^14.2.0"
+  }
+}
